@@ -50,7 +50,7 @@ Grain yield prediction is essential for sustainable agriculture. In this project
    - **Hasan's part**: Uses Recursive Feature Elimination (RFE), performs 5-fold cross-validation, evaluates models using multiple metrics, and visualizes ROC curves and confusion matrices.  
    - **Gökay's part**: Uses SelectKBest for feature selection, applies train/test split, compares classifiers, and exports results to Excel for further analysis.
 
-- `CENG464 Project - Report.docx`:  
+- `CENG464 Project - Report.pdf`:  
    Detailed report explaining the problem, methodology, data preprocessing steps, and final results.
 
 - `CENG464 Project - Data.xlsx`:  
